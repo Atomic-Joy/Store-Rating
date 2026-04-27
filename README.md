@@ -49,7 +49,7 @@ npm start
 
 Frontend runs on `http://localhost:3000`, proxies API calls to `http://localhost:5000`.
 
----
+
 
 ## User Roles & Access
 
@@ -59,7 +59,7 @@ Frontend runs on `http://localhost:3000`, proxies API calls to `http://localhost
 | **Normal User** | Browse stores, submit/modify ratings, change password |
 | **Store Owner** | View own store's ratings & average, change password |
 
----
+
 
 ## API Endpoints
 
